@@ -13,3 +13,4 @@ I plan to build and share different projects in the future.
 
 Hobbies: Music & gaming
 
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/MRINSANEXD.png)
